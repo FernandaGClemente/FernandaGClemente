@@ -1,3 +1,4 @@
+<img align="center" alt="Nanda-CapaLinkedin" src="https://media.licdn.com/dms/image/D4D16AQH71fHHXWs4Ug/profile-displaybackgroundimage-shrink_350_1400/0/1665783274949?e=1706140800&v=beta&t=2ysJDX8kQnsTkdUECEtfFMGGcOw7Zj0kTMckom5_GT0">
 <div>
    <h1> Olá! Meu nome é Fernanda G. Clemente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
    <h2> 🗨 Bem vindo ao meu Perfil! </h2>
